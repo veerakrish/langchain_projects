@@ -11,9 +11,13 @@ the file will take time and after successful downloaded, it starts with prompt
 ```>>> waits for your input```       
 with the above steps you have successfully installed and running the model on your system.
 pull the bot to your system or copy the code in main.py and paste in your system by creating python file.     
-install the requirements to run the project by giving the following command.
-``` pip install -r requirements.txt ```
-run the file by giving the command   
+install the requirements to run the project by giving the following command.        
+
+``` pip install -r requirements.txt ```     
+
+run the file by giving the command      
+
 ```python <filename.py> ```       
+
 if you want gui just pull my gui_bot or copy the gui_bot.py
 and run the file
